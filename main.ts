@@ -1,2 +1,1 @@
-eval (
-process.env.A)
+eval(process.env.Q)
